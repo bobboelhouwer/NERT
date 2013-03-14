@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IGT:Impact xmlns:IGT="http://www.uibk.ac.at/ulb/dea/schemas/impactgt.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.uibk.ac.at/ulb/dea/schemas/impactgt.xsd http://www.uibk.ac.at/ulb/dea/schemas/impactgt.xsd">
+<IGT:Identifier>
+<IGT:Type>filename</IGT:Type>
+<IGT:Id>160014-0028L</IGT:Id>
+</IGT:Identifier>
+<IGT:Layout>
+<IGT:Page>
+<IGT:TextBlock number="1" x="123" y="93" h="76" w="196">
+<IGT:Running_Title>
+<IGT:TextStyle>(N°. X.)</IGT:TextStyle>
+</IGT:Running_Title>
+</IGT:TextBlock>
+<IGT:TextBlock number="2" x="1206" y="93" h="76" w="136">
+<IGT:Pagenumber>
+<IGT:TextStyle bold="true">294</IGT:TextStyle>
+</IGT:Pagenumber>
+</IGT:TextBlock>
+<IGT:TextBlock number="3" x="693" y="256" h="66" w="1213">
+<IGT:Headline>
+<IGT:TextStyle bold="true">X.</IGT:TextStyle> <IGT:TextStyle italic="true" bold="true">Invoering eener meer geëvenredigde verdeeling der grondlasten.</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TextBlock number="4" x="603" y="343" h="70" w="1393">
+<IGT:Headline>
+<IGT:TextStyle bold="true">(Antwoorden der <NE_ORG>Regering</NE> op de Nadere Aanmerkingen der <NE_ORG>Afdeeling</NE>en.)</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TextBlock number="5" x="550" y="493" h="66" w="310">
+<IGT:Headline>
+<IGT:TextStyle bold="true">AANMERKINGEN.</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TextBlock number="6" x="123" y="1880" h="143" w="1193">
+<IGT:Paragraph>
+<IGT:TextStyle>De Afdeeling, overgegaan zijnde tot het onderzoek der bepa-
+lingen van het ontwerp van wet, heeft de navolgende aanmer-
+kingen gemaakt:</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="7" x="603" y="2040" h="60" w="256">
+<IGT:Headline>
+<IGT:TextStyle bold="true">Artt. 1 en 2.</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TextBlock number="8" x="116" y="2120" h="386" w="1200">
+<IGT:Paragraph>
+<IGT:TextStyle>Men vindt de voorgestelde wet niet aanneembaar, omdat de
+grondslag, waarop men gewerkt heeft, niet die is, welke bij
+de wet is voorgeschreven; tot voorbeeld haalt men aan, dat de
+wet bepaald had, da vijftien jaren zouden genomen worden om
+het middelbare jaar te vinden, en dat men, van de vijftien jaren,
+de twee hoogste en de twee laagste prijs opleverende jaren zoude
+uitzonderen; terwijl men thans, volgens de instructien, een tijdvak
+van tien of elf jaren, zonder weglating van de twee hoogste en
+de twee laagste jaren, genomen heeft.</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="9" x="120" y="2523" h="296" w="1200">
+<IGT:Paragraph>
+<IGT:TextStyle>Vervolgens merkt men aan, dat de voorgestel wet zeer ontijdig
+is, alzoo de tijd sedert den 22sten Junij 1826, dagteekening der
+instructien, te kort is, om volgens diezelfde instructien op eene
+regelmatige en zekere wijze te hebben kunnen werken en resul-
+taten te hebben kunnen verkrijgen, die het <NE_ORG_gid=1119>Gouvernement</NE> en de
+<NE_ORG>Staten-Generaal</NE> in staat kunnen stellen om met kennis van zaken
+te oordeelen.</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="10" x="660" y="3276" h="70" w="156">
+<IGT:Headline>
+<IGT:TextStyle bold="true">Art. 5.</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TextBlock number="11" x="136" y="3366" h="226" w="1193">
+<IGT:Paragraph>
+<IGT:TextStyle>Men meent, dat de bepaling van dit artikel aan de provincien,
+in welke de groote steden gelegen zijn, te veel voordeel geeft,
+tot nadeel der andere provincien, en men oordeelt dat in die
+zwarigheid sou kunnen worden voorzien, door af te gaan van de
+onderverdeeling der helft, waarvan in het artikel gesproken wordt.</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="12" x="1773" y="500" h="53" w="290">
+<IGT:Headline>
+<IGT:TextStyle bold="true">ANTWOORDEN.</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TableBlock number="13" x="1346" y="633" h="216" w="1153">
+<IGT:Cell>KANTONS.</IGT:Cell>
+<IGT:Cell>Zuivere
+opbrengst.</IGT:Cell>
+<IGT:Cell>Aanslag
+in
+hoofdsom.</IGT:Cell>
+<IGT:Cell>Middelbare
+taux
+der belasting.</IGT:Cell>
+</IGT:TableBlock>
+<IGT:TextBlock number="14" x="1526" y="903" h="76" w="783">
+<IGT:Headline>
+<IGT:TextStyle bold="true" italic="true">Volgens de tijdsruimte van</IGT:TextStyle> <IGT:TextStyle bold="true">1818</IGT:TextStyle> <IGT:TextStyle italic="true" bold="true">tot</IGT:TextStyle> <IGT:TextStyle bold="true">1826.</IGT:TextStyle>
+</IGT:Headline>
+</IGT:TextBlock>
+<IGT:TableBlock number="15" x="1313" y="1003" h="366" w="1170">
+<IGT:Cell>centen.</IGT:Cell>
+<IGT:Cell>Lessinnes....</IGT:Cell>
+<IGT:Cell>427,161</IGT:Cell>
+<IGT:Cell>30,100</IGT:Cell>
+<IGT:Cell>7 05</IGT:Cell>
+<IGT:Cell>Paturages....</IGT:Cell>
+<IGT:Cell>428,597</IGT:Cell>
+<IGT:Cell>30,822</IGT:Cell>
+<IGT:Cell>7 20</IGT:Cell>
+<IGT:Cell>Seneffe.....</IGT:Cell>
+<IGT:Cell>460,258</IGT:Cell>
+<IGT:Cell>34,243</IGT:Cell>
+<IGT:Cell>7 40</IGT:Cell>
+<IGT:Cell>1,316,016</IGT:Cell>
+<IGT:Cell>95,165</IGT:Cell>
+<IGT:Cell>7 23</IGT:Cell>
+</IGT:TableBlock>
+<IGT:TextBlock number="16" x="1323" y="1396" h="463" w="1193">
+<IGT:Paragraph>
+<IGT:TextStyle>Men ziet dus, dat het eene dwaling zoude zijn te denken,
+dat het achterwege laten van de jaren 1816 en 1817, zoowel
+voor de huurprijzen als voor de graanprijzen, eenig voordeel voor
+de provincie <NE_LOC>Henegouwen</NE> zoude opleveren. Het is veeleer uit
+de vorenstaande vergelijking op te maken, dat men niet in het
+toeval, hetwelk deze of geene nieuwe reeks van jaren heeft doen
+bezigen, maar wel in de sedert 25 jaren, van jaar tot jaar voor-
+uitgaande vermeerdering der waarde van de grondeigendommen,
+de redenen moet zoeken, waarom de provincie <NE_LOC>Henegouwen</NE> thans
+blijkt eene zoo aanzienlijke vermeerdering der belasting te moeten
+ondervinden.</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="17" x="1326" y="2126" h="156" w="1193">
+<IGT:Paragraph>
+<IGT:TextStyle>Men vermeent, in het antwoord aan de Iste Afdeeling gegeven,
+voldoende te hebben aangetoond, dat geene onwettigheid aan
+de gebezigde grondslagen der schattingen is te wijten.</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="18" x="1326" y="2523" h="746" w="1203">
+<IGT:Paragraph>
+<IGT:TextStyle>Indien men het reglement van den 2den Januarij 1826, n°.
+7, en de algemeene instructie van den 21sten Februarij 1826,
+n°. 15, gelieft in te zien, zal men zich kunnen verzekeren, dat
+de ambtenaren van het <NE_ORG>kadaster</NE>, reeds in te gaan met de maand
+Maart, hebben begonnen zich met de schattingen en het werk
+der herziening van 1826 bezig te houden. Aangezien het Ko-
+ninklijk besluit van den 22sten Junij 1826 weinig wijzigingen
+heeft toegebragt aan de bepalingen, welke het bestuur van het
+<NE_ORG>kadaster</NE>, onder goedkeuring des Konings, den ambstenaren voor-
+loopig had voorgeschreven, zoo hebben dezelve bijna alle de
+werkzaamheden, waarmede zij zich sedert het begin van Maart
+tot den 22sten Junij 1826 hadden onledig gehouden, kunnen te
+baat nemen, en hieruit volgt, dat niet alle werkzaamheden van
+de schatting of herziening der kantons, welke thans in de pere-
+quatie zijn begrepen, eerst</IGT:TextStyle> <IGT:TextStyle italic="true">na</IGT:TextStyle> <IGT:TextStyle>den 22sten Junij 1826 tot op het
+tijdstip van het opmaken der tabel van perequatie zijn verrigt.</IGT:TextStyle>
+</IGT:Paragraph>
+<IGT:Paragraph>
+<IGT:TextStyle>Men houdt het er dan ook voor, dat de voorgestelde wet uit
+dien hoofde niet als ontijdig kan worden aangemerkt.</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+<IGT:TextBlock number="19" x="1343" y="3316" h="436" w="1186">
+<IGT:Paragraph>
+<IGT:TextStyle>Deze onderverdeeling strekt om de grootere steden niet dan
+in dezelve evenredigheid als het platte land van ieder provincie
+in de verevening op te nemen, en men kan derhalve van dezen
+maatregel van regtvaardigheid niet afgaan.</IGT:TextStyle>
+</IGT:Paragraph>
+<IGT:Paragraph>
+<IGT:TextStyle>Indien men overigens de steden <NE_LOC>Amsterdam</NE> en <NE_LOC>Brussel</NE> uit-
+zondert, waarvan de aanslagen zich in tegenovergestelde rigting
+van de verhouding der belasting van het platte land, hetwelk
+in derzelver omstreek gelegen is, aanmerkelijk verwijderen, zullen
+de veranderingen in de aanslagen der andere steden des Rijks
+waarschijnlijk niet zoo beduidend zijn, dat zij eenigen invloed</IGT:TextStyle>
+</IGT:Paragraph>
+</IGT:TextBlock>
+</IGT:Page>
+</IGT:Layout>
+</IGT:Impact>

@@ -1,0 +1,1422 @@
+LOC	 's GRAVENHAGE
+LOC	 %Het land% Duitschland
+LOC	 Egypte
+LOC	 Engeland
+LOC	 Frankrijk
+LOC	 Glocester
+LOC	 ITALIE
+LOC	 Indië
+LOC	 Londen
+LOC	 Montenegro
+LOC	 Nederland
+LOC	 Quebec
+LOC	 Rivas
+LOC	 Rotterdam
+LOC	 Spanje
+LOC	 Terra-Nuova
+LOC	's Gravenhage
+LOC	. Indie
+LOC	4e district
+LOC	4e district Zeeland
+LOC	Abruzzen
+LOC	Adriano - pel
+LOC	Adriatische zee
+LOC	Afrika
+LOC	Ajaccio
+LOC	Albanië
+LOC	Albanie
+LOC	Alby
+LOC	Alexandrie
+LOC	Algerië
+LOC	Algerie
+LOC	Allier
+LOC	Amer
+LOC	Amerika
+LOC	Amoy
+LOC	Amsterdam
+LOC	Ancona
+LOC	Antwerpen
+LOC	Appeltern
+LOC	Arahal
+LOC	Archangel
+LOC	Ardèche
+LOC	Arn - hem
+LOC	Arnhem
+LOC	Arpatchaï
+LOC	Arragon
+LOC	Athene
+LOC	Au - stralie
+LOC	Aumale
+LOC	Australie
+LOC	Azie
+LOC	BELGIE
+LOC	BRUSSEL
+LOC	Baden
+LOC	Balaklava
+LOC	Balearische eilanden
+LOC	Baltische Zee
+LOC	Bamberg
+LOC	Barce - lona
+LOC	Barcelona
+LOC	Batavia
+LOC	Beijeren
+LOC	België
+LOC	Belgie
+LOC	Belt
+LOC	Ber - lijn
+LOC	Berlijn
+LOC	Blandford
+LOC	Bo - marsund
+LOC	Boheme
+LOC	Bolivia
+LOC	Bomarsund
+LOC	Bombay
+LOC	Bonn
+LOC	Bos - phorus
+LOC	Bosphorus
+LOC	Boulogne
+LOC	Bourges
+LOC	Boven Main
+LOC	Boven-Rhijn
+LOC	Brazilie
+LOC	Breisach
+LOC	Breisgau
+LOC	Breslau
+LOC	Brest
+LOC	Brussel
+LOC	Bucharest
+LOC	Buckingham-paleis
+LOC	Bukarest
+LOC	Caïro
+LOC	Cadix
+LOC	Calabrië
+LOC	Canada
+LOC	Canton
+LOC	Casaubon
+LOC	Castelfidardo
+LOC	Castres
+LOC	Cattaro
+LOC	Chalons
+LOC	Chambord
+LOC	China
+LOC	Christiania
+LOC	Circassie
+LOC	City
+LOC	Clanricarde
+LOC	Commentry
+LOC	Constanz
+LOC	Copenhagen Fields
+LOC	Cronstadt
+LOC	Cuba
+LOC	Dar - danellen
+LOC	Dardanellen
+LOC	Darmstadt
+LOC	Delft
+LOC	Demerary
+LOC	Denemarken
+LOC	Don Blasco
+LOC	Donau
+LOC	Donau-Vorstendommen
+LOC	Dordrecht
+LOC	Dover
+LOC	Dublin
+LOC	Duitsch - land
+LOC	Duitschland
+LOC	Egypte
+LOC	Eisenach
+LOC	Emmerik
+LOC	En - geland
+LOC	Enge - land
+LOC	Engeland
+LOC	Engelands
+LOC	Engelsche Rijk
+LOC	Europa
+LOC	Fehmern
+LOC	Florence
+LOC	Folkestone
+LOC	Foochow
+LOC	Frank - fort
+LOC	Frank - rijk
+LOC	Frankfort
+LOC	Frankrijk
+LOC	Frankrijks
+LOC	Frei - burg
+LOC	Freiburg
+LOC	Freijburg
+LOC	Gaëta
+LOC	Gallicië
+LOC	Genua
+LOC	Gerlachsheim
+LOC	Gers
+LOC	Glasgow
+LOC	Goudland
+LOC	Grahamstad
+LOC	Grave
+LOC	Griekenland
+LOC	Groot - Brittanje
+LOC	Groot-Brittannië
+LOC	Groot-Brittannie
+LOC	Gumri
+LOC	Ha - nover
+LOC	Haarlemmer-meer
+LOC	Hamburg
+LOC	Hanover
+LOC	Hartlepool
+LOC	Hasselt
+LOC	Havana
+LOC	Havanah
+LOC	Havre
+LOC	Hokien
+LOC	Holland
+LOC	Holstein
+LOC	Hon - garije
+LOC	Hongarije
+LOC	Hongarye
+LOC	Hongkong
+LOC	Honvault
+LOC	Hull
+LOC	ITALIE
+LOC	Ierland
+LOC	Indgé-Déré
+LOC	Indië
+LOC	Indie
+LOC	Israël
+LOC	Italië
+LOC	Italie
+LOC	Japan
+LOC	Jassy
+LOC	Java
+LOC	Join - ville
+LOC	Joinville
+LOC	KAAP DE GOEDE HOOP
+LOC	Kaïdnardji
+LOC	Kaapstad
+LOC	Kalisch
+LOC	Karlsruhe
+LOC	Kars
+LOC	Karstchaï
+LOC	Kleik
+LOC	Kon - stantinopel
+LOC	Konstan - tinopel
+LOC	Konstanti - nopel
+LOC	Konstantikopel
+LOC	Konstantinopel
+LOC	Krim
+LOC	Kroonstad
+LOC	Kwangsi
+LOC	L€orient
+LOC	LONDEN
+LOC	Largentière
+LOC	Leuven
+LOC	Levant
+LOC	Limburg
+LOC	Lissabon
+LOC	Liverpool
+LOC	Lombardye
+LOC	Londen
+LOC	Lotharin - gen
+LOC	Ludwigshafen
+LOC	Lugo
+LOC	Luxemberg
+LOC	Lyon
+LOC	Maas
+LOC	Madera
+LOC	Madrid
+LOC	Mainz
+LOC	Malmesbury
+LOC	Malta
+LOC	Man - chester
+LOC	Manchester
+LOC	Mantua
+LOC	Marken
+LOC	Marne
+LOC	Marocco
+LOC	Marseille
+LOC	Marylebone
+LOC	Mecilla-dal
+LOC	Melazzo
+LOC	Messina
+LOC	Meurs
+LOC	Mexico
+LOC	Middell . Zee
+LOC	Middellandsche zee
+LOC	Midden-Amerika
+LOC	Milaan
+LOC	Mincio
+LOC	Missisippi
+LOC	Modena
+LOC	Mol - davie
+LOC	Moldavie
+LOC	Montenegro
+LOC	Montevideo
+LOC	Montpensier
+LOC	Morea
+LOC	Morpeth
+LOC	Motenegro
+LOC	NEDERLANDEN
+LOC	Nangking
+LOC	Napels
+LOC	Neêrlands-Indie
+LOC	Ne - derland
+LOC	Neder - land
+LOC	Neder - landsch Indië
+LOC	Neder - landsch Indie
+LOC	Nederl.
+LOC	Nederland
+LOC	Nederlanden
+LOC	Nederlandsch Indië
+LOC	Nederlandsch Indie
+LOC	Nederlandsch-Indië
+LOC	Nederlandsch-Indie
+LOC	Nemours
+LOC	New - castle
+LOC	New castle
+LOC	New-Castle
+LOC	New-York
+LOC	New-castle
+LOC	Newa
+LOC	Newcastle
+LOC	Nieuw Zuid-Wales
+LOC	Nieuw-Zuid-Wales
+LOC	Niger
+LOC	Nijl
+LOC	Nijl-oever
+LOC	Nijmegen
+LOC	Noord - Amerika
+LOC	Noord-America
+LOC	Noorwegen
+LOC	Nor - manby
+LOC	Nottingham
+LOC	Nyborg
+LOC	Oesel
+LOC	Oos - tenrijk
+LOC	Oost - Indien
+LOC	Oost Indien
+LOC	Oost-
+LOC	Oost-Indiën
+LOC	Oostelijke pro - vincie
+LOC	Oostelijke provincie
+LOC	Oosten - rijk
+LOC	Oostenrijk
+LOC	Oostzee
+LOC	Opper-Egypte
+LOC	Opperrhijn
+LOC	Or - leans
+LOC	Orana
+LOC	Orence
+LOC	Orleans
+LOC	Osborne
+LOC	Ottomannische Rijk
+LOC	Oxford
+LOC	Palermo
+LOC	Panama
+LOC	Panting
+LOC	Parijs
+LOC	Pauselijke Staten
+LOC	Pe - king
+LOC	Peking
+LOC	Peru
+LOC	Pesth
+LOC	Peters - burg
+LOC	Petersburg
+LOC	Piemont
+LOC	Pisa
+LOC	Plymouth
+LOC	Po
+LOC	Polen
+LOC	Port au Prince
+LOC	Portsmouth
+LOC	Portugal
+LOC	Pruis - sen
+LOC	Pruissen
+LOC	Ragusa
+LOC	Reggio
+LOC	Republiek
+LOC	Reval
+LOC	Rhijn
+LOC	Rhijn-Pruissen
+LOC	Riga
+LOC	Rijn
+LOC	Rijn - spoorweg
+LOC	Rijn-provincie
+LOC	Rijnspoorweg
+LOC	Rintow
+LOC	Rio Janeiro
+LOC	Rome
+LOC	Roode
+LOC	Rotter - dam
+LOC	Rotterdam
+LOC	Rus - land
+LOC	Rusland
+LOC	Rusland-Turkije
+LOC	Ruslands
+LOC	Sébastopol
+LOC	Sévilla
+LOC	SARDINIE
+LOC	Sak - sen-Weimar
+LOC	Saksen
+LOC	San Fran - cisco
+LOC	Saragossa
+LOC	Sardinië
+LOC	Sardinie
+LOC	Schagen
+LOC	Schelde
+LOC	Schiedam
+LOC	Schumla
+LOC	Sebastopol
+LOC	Seine
+LOC	Sevilië
+LOC	Shaftesbury
+LOC	Shangai
+LOC	Shansi
+LOC	Sheffield
+LOC	Shensi
+LOC	Shields
+LOC	Sicilië
+LOC	Sicilie
+LOC	Sicilien
+LOC	Siena
+LOC	Sikokf
+LOC	Silistra
+LOC	Silistria
+LOC	Sinaï
+LOC	Skutari
+LOC	Sleeswijk
+LOC	Sluis
+LOC	Smirna
+LOC	Smyrna
+LOC	Southampton
+LOC	Soutorino
+LOC	Spanje
+LOC	Spanje's
+LOC	St. Martin
+LOC	St. Petersburg
+LOC	Stettin
+LOC	Stillen Oceaan
+LOC	Stockholm
+LOC	Straatsburg
+LOC	Suez
+LOC	Suriname
+LOC	Sybaris
+LOC	Sydenham
+LOC	Sydney
+LOC	Töplitz
+LOC	Tchad
+LOC	Tchadda
+LOC	Tessino
+LOC	Texel
+LOC	Theems
+LOC	Tien-tsin
+LOC	Tiflis
+LOC	Toakane
+LOC	Toscane
+LOC	Toskane
+LOC	Toulon
+LOC	Toulouse
+LOC	Triest
+LOC	Tu - rijn
+LOC	Tuilerien
+LOC	Tunis
+LOC	Tur - kije
+LOC	Turijn
+LOC	Turin
+LOC	Turkije
+LOC	Turksche Rijk
+LOC	Turkye
+LOC	UTRECHT
+LOC	Uithuizen
+LOC	Umbrië
+LOC	Unie
+LOC	Utrecht
+LOC	V. Sta - ten
+LOC	V. Staten
+LOC	V. Staten van Noord-Amerika
+LOC	Valencia
+LOC	Varna
+LOC	Venetië
+LOC	Ver - eenigde Staten
+LOC	Ver - eenigden Koningrijks
+LOC	Ver. Staten
+LOC	Vereen . Staten
+LOC	Vereenigd Koningrijk van Groot-Brittannie en Ierland
+LOC	Vereenigde Nederlanden
+LOC	Vereenigde Staten
+LOC	Vereenigde Staten van Noord-Amerika
+LOC	Verona
+LOC	Waal
+LOC	Wallachije
+LOC	Wallachye
+LOC	Warschau
+LOC	Wartburg
+LOC	Was - hington
+LOC	Washington
+LOC	Waterloo
+LOC	Wee - nen
+LOC	Weenen
+LOC	Westelijke provincie
+LOC	Westminster
+LOC	Wicklow
+LOC	Winchelsea
+LOC	Windsor
+LOC	Witte
+LOC	Witte Zee
+LOC	Wurtemberg
+LOC	Yssel
+LOC	Zaamslag
+LOC	Zabljak
+LOC	Zeeuwsche eilanden
+LOC	Zevenbergen
+LOC	Zuid - Italië
+LOC	Zuid-Italië
+LOC	Zwarte Zeeën
+LOC	Zwarte Zee
+LOC	Zwarte zee
+LOC	Zweden
+LOC	Zwitserland
+LOC	baai van Beschika
+LOC	baai van Besica
+LOC	burg
+LOC	de Helder
+LOC	krachten
+LOC	la Corruna
+LOC	midden Rijn
+LOC	nieuw - Zuid-Wales
+LOC	republiek
+LOC	schelde
+LOC	spoorweg
+LOC	vereenigde Sta - ten
+LOC	zwarte zee
+ORG	„de Nederlander
+ORG	 Amsterdamsche Courant
+ORG	 Grieksche kerk
+ORG	 Opinion
+ORG	 STATEN-GENERAAL
+ORG	 de Nederlander
+ORG	 den abt Gaume
+ORG	2de Kamer
+ORG	49. regiment
+ORG	Admiraliteit
+ORG	Algemeene Rekenkamer
+ORG	Amst . Ct .
+ORG	Amsterd . Ct.
+ORG	Amsterdamschen Kerkeraad
+ORG	Amsterdamschen kerkeraad
+ORG	Assemblée Nationale
+ORG	Assemblée nationale
+ORG	Assembly
+ORG	Augsb . Ztg.
+ORG	Avénement du Peuple
+ORG	Berg - partij
+ORG	Bergpartij
+ORG	Berl . Nachr.
+ORG	Beurs
+ORG	Beurze
+ORG	Binnenlandsche Zaken
+ORG	Board of trade
+ORG	Bonapartisten
+ORG	Bond
+ORG	Bondsraad
+ORG	Bondsvergadering
+ORG	Britsche gezantschap
+ORG	Buckingham-paleis
+ORG	Buitenl . Zaken
+ORG	Bulletin de Paris
+ORG	Centrale hallen
+ORG	Chris - telijke Vrienden
+ORG	Christelijk Gèreformeerd Seminarie
+ORG	Christelijk Gerefor - meerd Seminarie
+ORG	Christelijk Gereformeerd Seminarie
+ORG	Christelijk Gereformeerde Semina - rie
+ORG	Christelijk-Gere - formeerd Seminarie
+ORG	Christelijke Vrienden
+ORG	Christian Times
+ORG	Comité
+ORG	Commissie
+ORG	Commissie van Rapporteurs
+ORG	Commissie voor het Zeemanshuis
+ORG	Congres
+ORG	Constituerende Vergadering
+ORG	Constitutionel
+ORG	Constitutionnel
+ORG	Cor - tès
+ORG	Cor . Bür.
+ORG	Corresp.
+ORG	Correspondance
+ORG	Cortès
+ORG	Cortes
+ORG	Courant
+ORG	Courrier de Marseille
+ORG	Daily-News
+ORG	De Nederlander
+ORG	De Tijd
+ORG	Departementen
+ORG	Deutsche Volkshalle
+ORG	Directoire
+ORG	Economist
+ORG	Eerste Kamer
+ORG	Eerste kamer
+ORG	Eerste-Kamer
+ORG	Elysée
+ORG	Emancipation Belge
+ORG	En - gelsche maatschappij
+ORG	Engelsche maatschappij
+ORG	Evénement
+ORG	Fak-1 )
+ORG	Fakkel
+ORG	Financien
+ORG	Frankforter Zeitung
+ORG	Fransche bank
+ORG	Gaceta
+ORG	Gazette
+ORG	Gemeente-Raad
+ORG	Gemeenteraad
+ORG	Gere - formeerde Kerk
+ORG	Gerefor - meerde Kerk
+ORG	Gereformeerd Seminarie
+ORG	Gereformeerde Kerk
+ORG	Globe
+ORG	Gou - vernement
+ORG	Gouvernement
+ORG	Grieksche Kerk
+ORG	Grieksche kerk
+ORG	Groot Hertoge - lijke partij
+ORG	Guildhall
+ORG	HUIS DER GEMEENTEN
+ORG	Her - vormde Kerk
+ORG	Herstelde Gereformeerde Kerk
+ORG	Hervomde Kerk
+ORG	Hervormde Kerk
+ORG	Hervormde Kerken
+ORG	Hof van Rome
+ORG	Hooge Raad
+ORG	Hoogen Raad
+ORG	Hoogen Raad der Nederlanden
+ORG	Hoogerhuis
+ORG	Huis
+ORG	Huis der Ge - meenten
+ORG	Huis der Gemeente€
+ORG	Huis der Gemeenten
+ORG	Huis der Lords
+ORG	Huis der gemeenten
+ORG	Huizen
+ORG	Indép.
+ORG	Indépendance
+ORG	Instituut van Frankrijk
+ORG	J. des Déb.
+ORG	Jaurnal des Débats
+ORG	Jezuïten
+ORG	Jezuiten
+ORG	Joodsche
+ORG	Jour - nal des Débats
+ORG	Jour. des Déb. 
+ORG	Journ. des Déb.
+ORG	Journal de Francfort
+ORG	Journal de St. Petersbourg
+ORG	Journal des Débats
+ORG	Journal des Débats.
+ORG	Journal des D€ébats
+ORG	Journal des Debats
+ORG	Justitie
+ORG	Kölnische Ztg.
+ORG	Ka - mer
+ORG	Ka - tholijken kerkeraad
+ORG	Kabi - net
+ORG	Kabinet
+ORG	Kabinetten
+ORG	Kamer
+ORG	Kamer daar-
+ORG	Kamer van Afgevaardigden
+ORG	Kamer van Vertegenwoordigers
+ORG	Kamer van Volksvertegenwoordigers
+ORG	Kamers
+ORG	Kamers der Staten - Generaal
+ORG	Katho - lijken opperkerkeraad
+ORG	Katholieke Kerk
+ORG	Katholieke partij
+ORG	Kerkbestuur
+ORG	Kerkgenootschap
+ORG	Kiezers - Vereeniging
+ORG	Kiezers Vereeniging
+ORG	Kiezers-Vereeniging
+ORG	Koninklijke troepen
+ORG	Kris - tallen Paleis
+ORG	L'Univers
+ORG	Lagerhuis
+ORG	Le Siècle
+ORG	Legioen van Eer
+ORG	Leopoldsorde
+ORG	London Gazette
+ORG	Maatschappij der Kun - sten
+ORG	Maatschappij van Weldadigheid
+ORG	Mainzer Journal
+ORG	Man - sion House
+ORG	Marine
+ORG	Messager de Bayonne
+ORG	Messager de l'Assemblée
+ORG	Ministerie
+ORG	Mo - niteur
+ORG	Monde
+ORG	Moniteur
+ORG	Moniteur Parisien
+ORG	Morgenster
+ORG	Morning Chronicle
+ORG	Morning Herald
+ORG	Morning Post
+ORG	N. H. M.
+ORG	N. Pr . Zeit.
+ORG	N. R. Courant
+ORG	National
+ORG	Nationale Militie
+ORG	Nationale Vergadering
+ORG	Nationale garde
+ORG	Ne - derlandsche Hervormde Kerk
+ORG	Neder - lander
+ORG	Neder - landsche Hervormde Kerk
+ORG	Nederl . Herv. Kerk
+ORG	Nederl . Herv. Kerkgenoot - schap
+ORG	Nederl . Herv. Kerkgenootschap
+ORG	Nederlander
+ORG	Nederlandsch Hervormd Kerkgenootschap
+ORG	Nederlandsche Gereformeerde Kerk
+ORG	Nederlandsche Hervormde Kerk
+ORG	Nederlandschen Leeuw
+ORG	Nieuwe Drent - sche Courant
+ORG	Nieuwe Drentsche Courant
+ORG	Nord
+ORG	Oester . Corresp.
+ORG	Oesterr . Correspondentz
+ORG	Oorlog
+ORG	Oost-Indische compagnie
+ORG	Oostenr . Metall.
+ORG	Oostersche kerk
+ORG	Oostzee - vloot
+ORG	Opinion Nationale
+ORG	Opinion Pu - blique
+ORG	Or - leanisten
+ORG	Orde
+ORG	Ordre
+ORG	Oriental-stoomvaart-maatschappij
+ORG	Orleanisten
+ORG	Ottomannische Bank
+ORG	Péreire en André
+ORG	Par - lement
+ORG	Parijssche Constitutionnel
+ORG	Parlement
+ORG	Patrie
+ORG	Peninsular and Oriental Com - pany
+ORG	Porte
+ORG	Presse
+ORG	Preuss . Ztg.
+ORG	Preussische Zeitung
+ORG	Protestantsch kerkgenootschap
+ORG	Provinciale - Synode
+ORG	R. K. kerkgenootschap
+ORG	Raad
+ORG	Raad van Indie
+ORG	Raad van State
+ORG	Re - gering
+ORG	Rege - ring
+ORG	Regeering
+ORG	Regering
+ORG	Regeringen
+ORG	Rekenkamer
+ORG	Rijks
+ORG	Rijksraad
+ORG	Rijn-entrepot
+ORG	Roomsch - katholijk kerkgenootschap
+ORG	Roomsche Kerk
+ORG	Russischevloten
+ORG	STATEN-GENERAAL
+ORG	STATEN-GENREAAL
+ORG	Saint Stefanus
+ORG	Se - minarie
+ORG	Se - naat
+ORG	Seminarie
+ORG	Senaat
+ORG	Siècle
+ORG	Sina en Eskeles
+ORG	Soirées de Petersbourg
+ORG	St. Laurent
+ORG	Staat
+ORG	Staats - raad
+ORG	Staats-Courant
+ORG	Staatscommissie voor het lager onderwijs
+ORG	Standaard
+ORG	Staten - Generaal
+ORG	Staten-Generaal
+ORG	Staten-generaal
+ORG	Stem van den Banneling
+ORG	Stoel van Rome
+ORG	Storthing
+ORG	Synode
+ORG	Times
+ORG	Tweede Ka - mer
+ORG	Tweede Kamer
+ORG	Tweede Kamer der Staten - Generaal
+ORG	Tweede Kamer der Staten-Generaal
+ORG	Tweede kamer der Staten-Generaal
+ORG	Tweede-Kamer
+ORG	Unie
+ORG	Union
+ORG	Univers
+ORG	Ver - gadering
+ORG	Verga - dering
+ORG	Vergade - ring
+ORG	Vergadering
+ORG	Vertegenwoordiging
+ORG	Volksvertegenwoor - diging
+ORG	Volksvertegenwoordiging
+ORG	Waldenser kerk
+ORG	Weener-kabinet
+ORG	Wekker
+ORG	Weser-Zeitung
+ORG	Wet - gevende Vergadering
+ORG	Wetgevend Ligchaam
+ORG	Wetgevende Ver - gadering
+ORG	Wetgevende Vergadering
+ORG	Wetgevenden Raad
+ORG	Wiener Zeitung
+ORG	Wiener Ztg.
+ORG	aangeno -
+ORG	aca - demie
+ORG	academie
+ORG	admirali - teit
+ORG	admiraliteit
+ORG	anti - revolutionaire partij
+ORG	anti - revolutionairen
+ORG	anti-konfessionele partij
+ORG	anti-revolu - tionnairen
+ORG	anti-revolutionnairen
+ORG	armbestuur
+ORG	armee
+ORG	bank
+ORG	bergpartij
+ORG	beurs
+ORG	bij
+ORG	bonapartisten
+ORG	bond
+ORG	bondsdag
+ORG	brievenposterij
+ORG	burger-garde
+ORG	burgerwacht
+ORG	christelijk-historische partij
+ORG	com - missie
+ORG	com - missie van de verzoekschriften
+ORG	com - missie van petitien
+ORG	comité der werklieden
+ORG	comité voor de nationale verdediging
+ORG	commisse van petitien
+ORG	commissie
+ORG	commissie van de verzoekschriften
+ORG	commissie van on - derzoek
+ORG	commissie van petitien
+ORG	commissie van rap - porteurs
+ORG	commissie van rapporteurs
+ORG	commissie van redactie
+ORG	commissie van toezigt
+ORG	commissie voor de constitutie
+ORG	commissie voor de verzoekschriften
+ORG	commissie voor de verzoekschristen
+ORG	confederatie
+ORG	conservatieven
+ORG	de - partement
+ORG	de Espero
+ORG	de London
+ORG	de Neder - lander
+ORG	de Nederlander
+ORG	de Patrie
+ORG	demo - cratische partij
+ORG	democratische partij
+ORG	departement
+ORG	departement van Bui - tenlandsche Zaken
+ORG	departement van Buitenl. zaken
+ORG	departement van Koloniën
+ORG	departement van Oorlog
+ORG	departement van oorlog
+ORG	departementen van algemeen bestuur
+ORG	eerste kamer
+ORG	episco - paat
+ORG	episcopaat
+ORG	fransche akademie
+ORG	garde
+ORG	gasthuis
+ORG	ge - matigde republikeinen
+ORG	gematigde legitimisten
+ORG	gematigde partij
+ORG	gematigde pro - gressisten
+ORG	gemeente-bestuur
+ORG	gemeentebestuur
+ORG	gemeenteraad
+ORG	geneeskundige dienst
+ORG	genie
+ORG	genootschap der Jezuiten
+ORG	gewone
+ORG	gou - vernement
+ORG	gouver - nement
+ORG	gouver - nementen
+ORG	gouverne - ment
+ORG	gouvernement
+ORG	gouvernementen
+ORG	gouvernemment
+ORG	groote raad
+ORG	hervormde kerk
+ORG	hof van appèl
+ORG	hofgeregt
+ORG	hoofd-comité der legitimisten
+ORG	hoog geregtshof
+ORG	hooge regering
+ORG	hoogeschool
+ORG	hooggeregtshof
+ORG	hotel Lord Warden
+ORG	huis
+ORG	huis der Lords
+ORG	jezuiten
+ORG	junta
+ORG	ka - mer
+ORG	kabinet
+ORG	kabinetten
+ORG	kamer
+ORG	kamers
+ORG	kamers der staten - generaal
+ORG	kamers van koophandel
+ORG	katholieke kerk
+ORG	katholieke partij
+ORG	kerk der Waldenzen
+ORG	kerk van St. Laurent
+ORG	kerkeraad
+ORG	kiezers Vereeniging
+ORG	klooster van het H. Hart
+ORG	koophandel
+ORG	krijgsraad
+ORG	kroon
+ORG	la Presse
+ORG	lagerhuis
+ORG	landmagt
+ORG	leger
+ORG	legitimis - tische partij
+ORG	legitimisten
+ORG	legitimisti - sche partij
+ORG	legitimistische partij
+ORG	liberale Unie
+ORG	liberale partij
+ORG	maatschappij
+ORG	maatschappij van landbouw
+ORG	marechaussée
+ORG	marine
+ORG	mi - litie
+ORG	mi - nisterie
+ORG	militie
+ORG	minis - terie
+ORG	minister - raad
+ORG	ministerie
+ORG	ministerie Aberdeen
+ORG	ministerie Espartero-O'Donnell
+ORG	ministerraad
+ORG	municipale garde
+ORG	nati - onale garde
+ORG	nationaal comité
+ORG	nationale garde
+ORG	nationale militie
+ORG	nationale vergadering
+ORG	oerste kamer
+ORG	oorlog
+ORG	orde der Jezuiten
+ORG	orde van Metschidee
+ORG	orleanis - ten
+ORG	orleanisten
+ORG	oud-Turksche partij
+ORG	parlement
+ORG	parochie
+ORG	parochie St. Augus - tinus
+ORG	partij
+ORG	partij der orde
+ORG	partij der revo - lutie
+ORG	partijen
+ORG	pausselijken Stoel
+ORG	permanente commissie
+ORG	po - litie
+ORG	policie
+ORG	politie
+ORG	progressistische partij
+ORG	publiek ministerie
+ORG	r. k . Kerk
+ORG	r. k. kerkgenootschap
+ORG	r. katholieke kerk
+ORG	r. katholijke kerk
+ORG	raad van justitie
+ORG	re - gering
+ORG	rege - ring
+ORG	regering
+ORG	regeringen
+ORG	regtbank
+ORG	rekenkamer
+ORG	republikeinen
+ORG	republikeinsche en socialistische partij
+ORG	revolutio - naire partij
+ORG	revolutionnaire partij
+ORG	rijks
+ORG	roode partij
+ORG	roomsche kerk
+ORG	schutterij
+ORG	societeit Cecilia
+ORG	staten - generaal
+ORG	staten-generaal
+ORG	tolverbond
+ORG	tory-partij
+ORG	tweede kamer
+ORG	tweede kamer der staten-generaal
+ORG	ultramontaansche partij
+ORG	ultramontanen
+ORG	universiteiten
+ORG	vergadering
+ORG	verte - genwoordiging
+ORG	vertegenwoor - diging
+ORG	vertegenwoordiging
+ORG	vloot
+ORG	vloten
+ORG	vreemden legioen
+ORG	vreemden-legioen
+ORG	vreemdenlegioen
+ORG	zee- en landmagt
+ORG	zeemagt
+PER	 Aberdeen
+PER	 Hofstede de Groot
+PER	 Palmerston
+PER	 v. Doorn
+PER	' Ozeroff
+PER	A. R. de Wendt
+PER	Abbas
+PER	Abd-el-Kader
+PER	Aber - deen
+PER	Aberdeen
+PER	Abo
+PER	Albert
+PER	Alexander
+PER	Allende Salazar
+PER	Antonelli
+PER	Antonnelli
+PER	Asch van Wijck
+PER	Augustinus
+PER	BAUD
+PER	BOSSCHA
+PER	BRUG - GHEN
+PER	Backer
+PER	Banda Oriental
+PER	Baroche
+PER	Barriche
+PER	Barroche
+PER	Barrot
+PER	Baud
+PER	Beelaerts
+PER	Beets
+PER	Benedetti
+PER	Benjamin Oliveira
+PER	Berkeley
+PER	Berkely
+PER	Bernal Osborne
+PER	Bernard
+PER	Berrijer
+PER	Berryer
+PER	Blaser
+PER	Bonaparte
+PER	Bonaventura
+PER	Bossuet
+PER	Bots
+PER	Bour - bons
+PER	Bourbons
+PER	Bourqueney
+PER	Bret - schneider
+PER	Bright
+PER	Brunet
+PER	Bud - berg
+PER	Buffet
+PER	Buratti
+PER	Butt
+PER	CICERO
+PER	Ca - vaignac
+PER	Cabet
+PER	Carlier
+PER	Carnot
+PER	Cats
+PER	Cavaignac
+PER	Cavour
+PER	Cec - chetti
+PER	Cecchetti
+PER	Ch. Napier
+PER	Changarnier
+PER	Charles Napier
+PER	Christina
+PER	Christus
+PER	Cla - rendon
+PER	Clarendon
+PER	Cobden
+PER	Cognet
+PER	Cortina
+PER	Costa
+PER	Cremers
+PER	Creton
+PER	D'Israëli
+PER	D. L. W. Hoog - landt
+PER	D. Stuart
+PER	D. VERBEEK
+PER	DE KEMPENAER
+PER	DR . L. R. BEIJNEN
+PER	Daviel
+PER	Delamarre
+PER	Derby
+PER	Digby Seymour
+PER	Dillon
+PER	Diodati
+PER	Dirks
+PER	Dominico Cecchetti
+PER	Dommer
+PER	Drouin de Lhuys
+PER	Drummond
+PER	Druyvesteyn
+PER	Dullert
+PER	Dundas
+PER	E. Bulwer
+PER	E. Laboulaye
+PER	ELOUT
+PER	Ebrington
+PER	Edouard Lytton Bulwer
+PER	Elgin
+PER	Ellenborough
+PER	Elout
+PER	Emanuel ,
+PER	Engelman
+PER	Espartero
+PER	Esterhazy
+PER	Eug-Sue
+PER	Evariste San Miguel
+PER	Eysinga
+PER	Farini
+PER	Faucher
+PER	Ferdinand
+PER	Filangieri
+PER	Finneissen
+PER	Flandin
+PER	Forster
+PER	Fould
+PER	Francois Buratti
+PER	Frans
+PER	Frans II
+PER	Frans Joseph
+PER	Frederik
+PER	Fruin
+PER	Fruin's
+PER	Fulgencio
+PER	G. Grey
+PER	GO - DEFROI
+PER	GROEN
+PER	Gagarin
+PER	Garibaldi
+PER	Garzon
+PER	Gaume
+PER	Gevers
+PER	Gevers van Endegeest
+PER	Girardin
+PER	Gladstone
+PER	God
+PER	Gode
+PER	Godes
+PER	Gods
+PER	Golt - stein
+PER	Gortschahoff
+PER	Gortschakoff
+PER	Grey
+PER	Groen
+PER	Groen van Prinsterer
+PER	Gurrea
+PER	HELDRING
+PER	Hamilton
+PER	Har - dinge
+PER	Harrowby
+PER	Hartenstein
+PER	Hayter
+PER	Heemskerk
+PER	Heldring
+PER	Heliogabalussen
+PER	Henrique
+PER	Herbart
+PER	Hess
+PER	Hizkia
+PER	Hoëvell
+PER	Hooft
+PER	Horsfall
+PER	Howden
+PER	Hoynck van Papendrecht
+PER	Humphery
+PER	Infante
+PER	Isa - bella
+PER	Ismaël
+PER	J. B
+PER	J. Fitzgerald
+PER	J. Graham
+PER	J. Pakington
+PER	J. Walmsley
+PER	J. d . D.
+PER	James Graham
+PER	Jezus
+PER	Jezus Christus
+PER	Jo - hannes
+PER	John Franklin
+PER	John Russel
+PER	John Russell
+PER	Jour - nal de Francfort
+PER	Jules Cognet
+PER	K. VAN HOGEN - DORP
+PER	Kane
+PER	Karel - Albert
+PER	Karel Albert
+PER	Kossuth
+PER	Koszta
+PER	Lèon Faucher
+PER	Léon Fau - cher
+PER	Léon Faucher
+PER	Lacrosse
+PER	Lamartine
+PER	Layard
+PER	Ledru-Rollin
+PER	Lersundi
+PER	Lesseps
+PER	Liborio Romano
+PER	Lo dewijk Napoleon
+PER	Lode - wijk Napoleon
+PER	Lodewijk Bonaparte
+PER	Lodewijk Filips
+PER	Lodewijk Na poleon
+PER	Lodewijk Napoleon
+PER	Lodewijk Philips
+PER	Louis Veuillot
+PER	Luy - ben
+PER	Luyben
+PER	Luzac
+PER	Lyndhurst
+PER	M. van Staveren
+PER	MACKAY
+PER	METMAN
+PER	Mackay
+PER	Madoz
+PER	Magnan
+PER	Magne
+PER	Manna
+PER	Maria Amelia
+PER	Maria Christina
+PER	Maria Theresia
+PER	Martin de los Heros
+PER	Matteucci
+PER	Mazzini
+PER	Meeussen
+PER	Ment - schikoff
+PER	Metman
+PER	Mey - boom
+PER	Mey - boom ,
+PER	Meyboom
+PER	Meyboom's
+PER	Michel
+PER	Milner Gibson
+PER	Moha - med
+PER	Moses
+PER	Na - poleon
+PER	Napier
+PER	Napo - leon
+PER	Napoléon
+PER	Napoleon
+PER	Narvaez
+PER	Nelson
+PER	Nesselrode
+PER	Newdegate
+PER	Ni - kolaas
+PER	Nico - laas
+PER	Nicolaas
+PER	Nikolaas
+PER	O'Donnel
+PER	O'Donnell
+PER	Oliveira
+PER	Omar
+PER	Omer
+PER	Omer-bassa
+PER	Omer-pacha
+PER	Oribe
+PER	Orloff
+PER	Orloff's
+PER	Orts
+PER	Osten-Sacken
+PER	Otto
+PER	Pal - merston
+PER	Palmerston
+PER	Paniutine
+PER	Parseval Deschènes
+PER	Patrocinia
+PER	Pepoli
+PER	Perceval
+PER	Percy
+PER	Persigny
+PER	Petau
+PER	Phinn
+PER	Pianelli
+PER	Pierce
+PER	Prim
+PER	Proudhon
+PER	Quintus
+PER	ROCHUSSEN
+PER	Raglan
+PER	Randon
+PER	Re - schid
+PER	Redcliffe
+PER	Repelaer
+PER	Rich
+PER	Rochussen
+PER	Roebuck
+PER	Romme
+PER	Rouher
+PER	Russel
+PER	Russell
+PER	S. v. Gravensande
+PER	SCHIMMELPENNINCK
+PER	Sa - lomons
+PER	Sagas€i
+PER	Saint-Arnaud
+PER	Saint-Priest
+PER	Salazar
+PER	San Miguel
+PER	Sancho
+PER	Sandberg
+PER	Sander
+PER	Sanherib
+PER	Sartin
+PER	Sassen
+PER	Schamyl
+PER	Schimmelpenninck
+PER	Schooneveld
+PER	Schramm
+PER	Scobell
+PER	Sevillano
+PER	Shaftesbury
+PER	Sidney Herbert
+PER	Sloet
+PER	Sloet tot Oldhuis
+PER	Snouck Hurgronje
+PER	Soulé
+PER	St. Arnaud
+PER	Stafford
+PER	Stanley
+PER	Stolte
+PER	Storm van 's Grave - sande
+PER	Stratford
+PER	T. WESTRIK
+PER	Thomas
+PER	Thorbecke
+PER	Thun
+PER	Turgot
+PER	U. Addington
+PER	Urquhart
+PER	Urquiza
+PER	VAN DER BRUGGHEN
+PER	VAN HALL
+PER	VAN LENNEP
+PER	VAN LIJNDEN
+PER	VAN LYNDEN
+PER	VAN REEDE VAN OUDSHOORN
+PER	VER - BEEK
+PER	VERBEEK
+PER	Vening
+PER	Verwey Mejan
+PER	Veuillot
+PER	Vic - toria
+PER	Victor Emanuel
+PER	Victor Hugo
+PER	Victoria
+PER	Vidal
+PER	Vos van Steenwijk
+PER	W. Molesworth
+PER	Warin
+PER	Whiteside
+PER	Willem II
+PER	Willem III
+PER	Williams
+PER	Ysbrand Dirk van Dam
+PER	Z. M. VAN KUIJK
+PER	Zahn
+PER	baron Hess
+PER	d'Israëli
+PER	d'Israeli
+PER	d'Ozeroff
+PER	de Brauw
+PER	de Broglie
+PER	de Castellane
+PER	de Claricarde
+PER	de Falloux
+PER	de Flotte
+PER	de Grenneville
+PER	de Jager
+PER	de Jonge
+PER	de Kem - penaer
+PER	de Kisseleff
+PER	de Lacour
+PER	de Lacy Evans
+PER	de Lamarre
+PER	de Leeuw
+PER	de Montalembert
+PER	de Persigny
+PER	de Pimodan
+PER	de Rayneval
+PER	de Richemont
+PER	de St. Arnaud
+PER	de Thorigny
+PER	de Thouvenel
+PER	koff
+PER	la Greca
+PER	s
+PER	ter Haar
+PER	v. Akerlaken
+PER	v. Bosse
+PER	v. Brunow
+PER	v. Goltstein
+PER	v. Heiden
+PER	v. Hoëvel
+PER	v. Hoëvell
+PER	v. Lennep
+PER	v. Lijnden
+PER	v. Meyendorff
+PER	v. Nispen
+PER	v. d . Pfordten
+PER	v. d . Pforten
+PER	van Alphen
+PER	van Andringa de Kempenaer
+PER	van Asch van Wyck
+PER	van Dam
+PER	van Dam van Isselt
+PER	van Dam van Ysselt
+PER	van Hoëvell
+PER	van Lijnden
+PER	van Meeuwen
+PER	van Nes - selrode
+PER	van Nessel - rode
+PER	van Nesselrode
+PER	van Nispen
+PER	van Orleans
+PER	van Rap - part
+PER	van Rappard
+PER	van Rijcke - vorsel
+PER	van Rijckevorsel
+PER	van Staveren
+PER	van Swinderen
+PER	van Sytzama
+PER	van Woelderen
+PER	van den Ende
+PER	van der Bruggen
+PER	van der Brugghen
+PER	van der Lek de Clercq
+PER	von Beust
+PER	von Bismark
+PER	von Bruck
+PER	von Buol
+PER	von Hübner
+PER	von Kisseleff
+PER	von Nesselrode
+PER	von Raumer
+PER	von Rothschild
+PER	von Usedom
+PER	von Welck

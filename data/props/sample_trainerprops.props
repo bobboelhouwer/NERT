@@ -1,0 +1,55 @@
+trainFile=data/sample_train/sample_train_dbnl.txt
+
+#to train on multiple files (of the same format):
+#trainFiles=data/sample_train/sample_train_sg_xml/sg_sample_1.xml;data/sample_train/sample_train_sg_xml/sg_sample_2.xml
+
+#to train on all files in a dir (which need to be of the same format):
+#trainDirs=data/sample_train/sample_train_sg_xml/
+
+#name of model to save to:
+serializeTo=data/models/model_dbnl.ser.gz
+
+#for bio-format: add column information
+#map= word=0,tag=1,answer=2
+
+#give file format: bio, txt, xml
+format=txt
+
+#if other than default tags, explicate:
+#starttag=<NE_TAG>
+#endtag=</NE>
+
+#for xml, give tag to train on, rest is ignored. No <>
+#xmltags=IGT:TextStyle
+
+#spelling variation reduction settings
+useSpelVar=true
+svPhonTrans=data/phonTrans/phonTrans.txt
+printspelvarpairs=out/svpairs_train.txt
+
+
+# Stanford settings
+noMidNGrams=false	
+useDistSim=false
+useReverse=true
+useTitle=true
+useClassFeature=true
+useWord=true
+#useTags=true
+useNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+maxLeft=1
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+useDisjunctive=true
+#printFeatures=featzdump
+useGazettes=true
+#sloppyGazette=true
+#cleanGazette=true
+#gazette=FILE1;FILE2;FILE3

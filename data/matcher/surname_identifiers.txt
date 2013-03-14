@@ -1,0 +1,21 @@
+#	This file contains surname identifiers for Dutch for person names 
+#	for the NE-matcher, for use if perFilter = true. 
+#
+#	The NEMatcher assumes that the surname identifiers
+#	mark the beginning of a surname in a name that consists of more than one
+#	word. E.g. the surname identifier 'van' tells the NE-matcher that in the name
+#	'Jan van der Broek', the surname starts at word index = 1. Thus, it assumes that
+#	all words preceding 'van' are given names.
+#
+#	NOTE: identifiers have to be lowercase.
+
+van
+de
+der
+den
+des
+d'
+du
+la
+a
+ab

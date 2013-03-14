@@ -1,0 +1,95 @@
+# 	all left hand words/characters should be in lowercase
+#	general Java regex rules apply, but use single slash as escape char
+#	special characters: \s: whitespace, \b word boundary, \w word-characters, \W non-word characters
+#						.: any character, \.: period
+#						*: preceding character can occur 0 or more times, +: preceding character can occur 1 or more times
+#						^: beginning of string, $: end of string
+#						?: preceding character is optional
+#						[abc]: any of the characters 'a', 'b' or 'c'
+#						[^abc]: any character except 'a', 'b' or 'c'
+#						()=>$1: backreference, using left hand side group on the right hand side
+
+#ignore this word
+gemeente|provincie=>
+
+#ignore jr. jr junior sr sr. senior zn and any ', *z' (such as ', Jz', ', Cz' for Dutch)
+\s+jr\.?|\s+junior|\s+sr\.?|\s+senior|\s+zn|,\s+\w+z\b=>
+
+# remove dashes surrounded by whitespace
+\s-\s=>
+
+#remove n, 's, `s, ’s at word boundary
+n\b|'s\b|`s\b|’s\b=>
+
+# sch > s if 'sch' is not followed by a vowel
+sch([^aeiouy])=>s$1
+
+# sche > s, if it is not at a word boundary
+sche?\b=>s
+
+# remove apostrophe+s at beginning of string
+^'s|^`s|^’s=>
+
+#tz > z
+tz=>z
+
+#ignore these words altogether
+st\s*\.|sint|santo|saint =>
+
+# remove all non word characters
+\W=>
+
+# double character > single character
+(\w)\1=>$1
+
+# ij/ei/y/eij/ey > Y
+eij|ij|ei|y|ey=>Y
+
+# ue/ae/oe > e
+(u|a|o)e=>$1
+
+# ch > g
+ch=>g
+
+# ou/au > u
+ou|au=>u
+
+# z > s
+z=>s
+
+# final d > t
+d\b=>t
+
+# ck > k
+ck=>k
+
+# uw > w
+uw=>w
+
+# ce > se
+ce=>se
+
+# ci > si
+ci=>si
+
+# ca > ka
+ca=>ka
+
+# co > ko
+co=>ko
+
+# cu > ku
+cu=>ku
+
+# c > k
+c=>k
+
+# ph > f
+ph=>f
+
+# th > t
+th=>t
+
+# j > i
+j=>i
+

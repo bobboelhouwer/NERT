@@ -1,0 +1,97 @@
+#####	sample properties file for the matcher
+
+
+############################## examples for different types of file use ###############################
+
+#####	Note: paths to the files and directories below are relative from the main NERT-folder! #####
+
+
+#####	example 1: 	one file with historical NE's, no modern lemmata
+#file=./data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_1.txt
+file=./data/matcher/sample_historical_nelists_dutch/sample_nelist_persons.txt
+#####
+
+#####	example 2: 	directory with files with historical NE's, no modern lemmata
+#dir=./data/matcher/sample_historical_nelists_dutch/
+#####
+
+#####	example 3: 	directory with two files with historical NE's, no modern lemmata
+#####				output: one of the two files in the directory
+#dir=./data/matcher/sample_historical_nelists_dutch/
+#onlyShowFile=./data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_2.txt
+#####
+
+#####	example 4: 	directory with two files with historical NE's, no modern lemmata
+#####				output: both files in the directory (silly, but it's an example)
+#dir=./data/matcher/sample_historical_nelists_dutch/
+#onlyShowFiles=./data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_1.txt;../../data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_2.txt
+#####
+
+#####	example 5: 	one file with historical NE's, one file with modern lemmata
+#file=./data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_1.txt
+#lemmaFile=./data/matcher/sample_modern_nelists_dutch/sample_nelist_modernLOCs_dutch_1.txt
+#####
+
+#####	example 6: 	one file with historical NE's, directory with files with modern lemmata
+#file=./data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_1.txt
+#lemmaDir=./data/matcher/sample_modern_nelists_dutch/
+#####
+
+#####	example 7: 	directory with files with historical NE's, directory with files with modern lemmata
+#dir=./data/matcher/sample_historical_nelists_dutch/
+#lemmaDir=./data/matcher/sample_modern_nelists_dutch/
+#####
+
+
+############################### further specifications ###############################
+
+###	input parameters ###
+#	specify the column that holds the NEs in the sample file(s). First column = 0. 
+#	columns *have* to be tab-separated
+#	'type:[column]' is optional if useType=false. Note that the type will *not* be in the output
+#	if it is specified here.
+line=type:0,ne:1
+lemmaLine=type:0,ne:1
+#	ignore chunks that are surrounded by this tag, e.g. "Henri Jacques %Baron% de Fleury"
+ignoreWordsWithTag=%
+
+###	output parameters ###
+#	groupview: 	word[tab]variant1[tab]variant2[tab]variant3
+#	!groupview:	word[tab]variant1
+#				word[tab]variant2
+#				word[tab]variant3
+groupview=true
+#	printScore:	Amstelredam[tab]Amsterdam (score)
+printScore=true
+#	printSource:Amstelredam[tab]Amsterdam (sourcefile:linenumber)
+printSource=true
+#	showDoubles:	treat homonyms as separate matches, this will give
+					England[tab]Engeland (sourcefile1:line1)[tab]Engeland (sourcefile2:line1)
+#	!showDoubles:	bundle homonyms into one match, this will give
+					England[tab]Engeland (sourcefile1:line1;sourcefile2:line1)
+showDoubles=false
+#	give feedback to STDERR
+verbose=true
+
+
+### location of files for NE-normalization (optional) ###
+phonTrans=./data/matcher/phonTrans.txt
+### the files below are only used with the perFilter, which is currently under construction
+surnameIdentifiers=./data/matcher/surname_identifiers.txt
+string2roman=./data/matcher/string2roman.txt
+
+
+###	matching parameters ###
+#	minScore: show all matches with a score higher or equal to
+minScore=70
+#	nBest: only show nBest matches (with minScore as minimum), use -1 to ignore
+nBest=-1
+#	punish variants with a different initial with -10 in their score
+punishDiffInitial=10
+#	useType: 	only match NE's with matching types
+#	!useType:	ignore types
+useType=true
+#	perFilter:	under construction - does a smart scan of NE's of type PER (useType has to be set to TRUE)
+#				for better matching of e.g. Jansen to Piet Jansen to P. Jansen. Do not use
+#perFilter=true
+

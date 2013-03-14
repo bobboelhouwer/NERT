@@ -1,0 +1,31 @@
+#####	sample properties file for the matcher
+#####	Note: paths to the files and directories below are relative from the main NERT-folder! #####
+
+
+#####	match one file with historical NE's, directory with files with modern lemmata
+file=./data/matcher/sample_historical_nelists_dutch/sample_nelist_19c_newsp_dutch_1.txt
+#lemmaDir=./data/matcher/sample_modern_nelists_dutch/
+
+###	input parameters ###
+line=type:0,ne:1
+lemmaLine=type:0,ne:1
+#ignoreWordsWithTag=%
+
+###	output parameters ###
+groupview=true
+printScore=true
+printSource=true
+showDoubles=false
+verbose=true
+
+### location of files for NE-normalization (optional) ###
+phonTrans=./data/matcher/phonTrans.txt
+surnameIdentifiers=./data/matcher/surname_identifiers.txt
+string2roman=./data/matcher/string2roman.txt
+
+###	matching parameters ###
+minScore=70
+nBest=-1
+punishDiffInitial=10
+useType=false
+
