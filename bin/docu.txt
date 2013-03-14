@@ -1,0 +1,15 @@
+mogelijke aanroep:
+train:
+java -cp /mnt/Projecten/Impact/NER/NER_tools/Stanford_09/stanford-ner-2009-01-16/classes:.:/home/INL/landsbergen/Eclipse/eclipse_workspace/NERT/bin/ nl.inl.impact.ner.ImpactCRFClassifier -prop /datalokaal/NER/Tests/Test11/materiaal/versies_train_en_testfiles/Test11_versie1.props
+
+test:
+java -cp /mnt/Projecten/Impact/NER/NER_tools/Stanford_09/stanford-ner-2009-01-16/classes:.:/home/INL/landsbergen/Eclipse/eclipse_workspace/NERT/bin/ nl.inl.impact.ner.ImpactCRFClassifier -loadClassifier /datalokaal/NER/Tests/Test11/spelvar/gaztest/Test11_model_sloppygaz.ser.gz -testFile /datalokaal/NER/Tests/Test11/materiaal/versies_train_en_testfiles/testfile_zinnenzonderpunt.txt
+
+
+
+----
+
+
+
+
+
